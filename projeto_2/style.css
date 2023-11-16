@@ -1,0 +1,24 @@
+body{
+    transition: background-color 1s, color 1s;
+}
+
+nav{
+    display: flex;
+}
+
+button{
+    margin-left: 1250px;
+}
+
+.darkMode{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.info{
+    display: flex;
+}
+
+.titulo{
+    text-align: center;
+}
